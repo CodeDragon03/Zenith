@@ -1,0 +1,9 @@
+{
+  "extends": "@repo/typescript-config/node",
+  "include": [
+    "**/*.ts",
+    "**/*.js",
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ],
+}

@@ -1,0 +1,32 @@
+{
+  "name": "@repo/eslint-config",
+  "version": "1.0.0",
+  "private": true,
+  "files": [
+    "base.config.js",
+    "react-lib.config.js",
+    "node-lib.config.js"
+  ],
+  "exports": {
+    ".": "./config/base.config.js",
+    "./react": "./config/react-lib.config.js",
+    "./node": "./config/node-lib.config.js"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@types/eslint": "^9.6.1",
+    "eslint": "^9.34.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-config-turbo": "^2.5.6",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-markdown": "^5.1.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^5.5.4",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-turbo": "^2.5.6",
+    "global": "^4.4.0",
+    "typescript-eslint": "^8.41.0"
+  }
+}
