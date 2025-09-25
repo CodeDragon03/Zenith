@@ -1,0 +1,13 @@
+{
+  "name": "@monorepo/eslint-config-custom",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "files": [
+    "base.config.ts",
+    "web.config.ts",
+    "api.config.ts"
+  ],
+  "devDependencies": {}
+}
