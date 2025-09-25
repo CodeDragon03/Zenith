@@ -1,19 +1,19 @@
 <div align="center">
-<img src="./Poster.jpeg" alt="Poster" />
+    <img src="./Poster.jpeg" alt="Zenith Poster" />
 </div>
 
-<h1 align="center">Monorepo Setup</h1>
+<h1 align="center">Zenith</h1>
 
 <blockquote style="font-size:18px;">
-This <strong>monorepo template</strong> utilizes <strong>NX</strong> for a <strong>scalable, modular, and maintainable project structure</strong>. It separates <strong>applications</strong> from <strong>reusable libraries</strong>, <strong>promoting code sharing</strong> and <strong>consistency</strong> while ensuring <strong>efficient builds and clear project boundaries for professional, open-ended development</strong>.
+    <strong>Zenith</strong> is a powerful super app built for the modern user. The project features high-performance communication and a resilient framework for seamless online and offline connectivity. Its robust architecture supports a comprehensive suite of social and integrated services, all designed to create a unified and efficient super app ecosystem.
 </blockquote>
 
 <div align="center">
-    <img src="https://img.shields.io/github/contributors/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
-    <img src="https://img.shields.io/github/forks/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
-    <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green">
-    <img src="https://img.shields.io/github/stars/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" />
-    <img src="https://img.shields.io/github/issues/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
+    <img src="https://img.shields.io/github/contributors/CodeDragon03/Zenith?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
+    <img src="https://img.shields.io/github/forks/CodeDragon03/Zenith?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
+    <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/CodeDragon03/Zenith?style=for-the-badge&logo=github&color=green">
+    <img src="https://img.shields.io/github/stars/CodeDragon03/Zenith?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" />
+    <img src="https://img.shields.io/github/issues/CodeDragon03/Zenith?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
 </div>
 
 ## Table of Contents
@@ -31,13 +31,13 @@ This <strong>monorepo template</strong> utilizes <strong>NX</strong> for a <stro
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/CodeDragon03/Monorepo.git
+    git clone https://github.com/CodeDragon03/Zenith.git
     ```
 
 2.  **Install dependencies:**
 
     ```bash
-    cd Monorepo
+    cd Zenith
 
     pnpm install
     ```
@@ -47,7 +47,7 @@ This <strong>monorepo template</strong> utilizes <strong>NX</strong> for a <stro
 Use the following command to run the application:
 
 ```bash
-turbo run dev
+nx run dev
 ```
 
 ## Contributing
@@ -60,9 +60,9 @@ We welcome contributions\! To get started, please follow these steps:
 2.  **Clone your fork**
 
     ```bash
-    git clone https://github.com/CodeDragon03/Monorepo.git
+    git clone https://github.com/CodeDragon03/Zenith.git
 
-    cd Monorepo
+    cd Zenith
     ```
 
 3.  **Create a new branch** Use a descriptive branch name for your feature or
@@ -101,18 +101,18 @@ We welcome contributions\! To get started, please follow these steps:
 
 ### Contributors
 
-Thanks to all the people who have contributed to this project!
+Thanks to all the people who have contributed to this project\!
 
 <div align="start">
-    <a href="https://github.com/CodeDragon03/Monorepo/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=CodeDragon03/Monorepo"/>
+    <a href="https://github.com/CodeDragon03/Zenith/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=CodeDragon03/Zenith"/>
     </a>
 </div>
 
 ## Issues
 
 If you encounter any issues, please open an issue in the
-[Issues](https://github.com/CodeDragon03/Monorepo/issues) section.
+[Issues](https://github.com/CodeDragon03/Zenith/issues) section.
 
 ### Issue Guidelines
 
@@ -124,20 +124,35 @@ If you encounter any issues, please open an issue in the
 
 ## Author
 
-      Jay Yadav @CodeDragon03
+```
+  Jay Yadav @CodeDragon03
+```
 
 ## Appendix
 
-### What is a Monorepo?
+### What is Zenith?
 
 <blockquote style="font-size:18px;">
-A monorepo, short for "monolithic repository," is a single version-controlled repository that holds the code for many distinct projects. Instead of having separate repositories for each project, a monorepo centralizes all of the codebase in one location.
+    <strong>Zenith</strong> is a super app designed to integrate a full suite of services within a single, unified platform. It focuses on a high-performance, resilient architecture to ensure a seamless user experience, whether they are online or offline, creating a centralized ecosystem for all their needs.
 </blockquote>
 
-### Why use Monorepo (Turborepo or NX)?
+### Key Features
 
 <blockquote style="font-size:18px;">
-In a monorepo, a developer can streamline a codebase, unifying front-end, back-end, and UI libraries into a single repository. This can accelerate build times and cut down on development overhead. The centralized nature of a monorepo can also improve developer velocity. For instance, one project used a monorepo to accelerate build times by 30% , and another cut development overhead by 25%.
+    <ul>
+        <li>
+        <strong>High-Performance Messaging:</strong> A core communication service built for speed and reliability.
+        </li>
+        <li>
+        <strong>Online/Offline Resiliency:</strong> The app remains functional and responsive even with intermittent or no network connectivity.
+        </li>
+        <li>
+        <strong>Integrated Services:</strong> Access a comprehensive suite of social and other services from a single app.
+        </li>
+        <li>
+        <strong>Unified Ecosystem:</strong> A consistent and efficient user experience across all functionalities.
+        </li>
+    </ul>
 </blockquote>
 
 ## References
@@ -151,4 +166,4 @@ In a monorepo, a developer can streamline a codebase, unifying front-end, back-e
 ## License
 
 This project is licensed under the
-[MIT License](https://www.google.com/search?q=LICENSE).
+[MIT License](./LICENSE).
