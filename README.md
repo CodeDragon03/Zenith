@@ -37,7 +37,7 @@
 2.  **Install dependencies:**
 
     ```bash
-    cd Zenith
+    cd Spaces
 
     pnpm install
     ```
@@ -62,7 +62,7 @@ We welcome contributions\! To get started, please follow these steps:
     ```bash
     git clone https://github.com/CodeDragon03/Spaces.git
 
-    cd Zenith
+    cd Spaces
     ```
 
 3.  **Create a new branch** Use a descriptive branch name for your feature or
@@ -130,38 +130,7 @@ If you encounter any issues, please open an issue in the
 
 ## Appendix
 
-### What is Zenith?
-
-<blockquote style="font-size:18px;">
-    <strong>Zenith</strong> is a super app designed to integrate a full suite of services within a single, unified platform. It focuses on a high-performance, resilient architecture to ensure a seamless user experience, whether they are online or offline, creating a centralized ecosystem for all their needs.
-</blockquote>
-
-### Key Features
-
-<blockquote style="font-size:18px;">
-    <ul>
-        <li>
-        <strong>High-Performance Messaging:</strong> A core communication service built for speed and reliability.
-        </li>
-        <li>
-        <strong>Online/Offline Resiliency:</strong> The app remains functional and responsive even with intermittent or no network connectivity.
-        </li>
-        <li>
-        <strong>Integrated Services:</strong> Access a comprehensive suite of social and other services from a single app.
-        </li>
-        <li>
-        <strong>Unified Ecosystem:</strong> A consistent and efficient user experience across all functionalities.
-        </li>
-    </ul>
-</blockquote>
-
 ## References
-
-- [NX Setup](https://nx.dev/getting-started/intro)
-- [Typescript Configuration](https://www.typescriptlang.org/tsconfig/)
-- [Eslint Configuration](https://eslint.org/docs/latest/use/configure/)
-- [Prettier Configuration](https://prettier.io/docs/configuration)
-- [Setup Guide](https://javascript.plainenglish.io/sharing-typescript-with-nx-and-turborepo-part-3-configuring-a-monorepo-2e4608701964#7ab8)
 
 ## License
 
