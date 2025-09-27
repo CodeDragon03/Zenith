@@ -1,19 +1,19 @@
 <div align="center">
-    <img src="./Poster.jpeg" alt="Zenith Poster" />
+    <img src="./Poster.jpeg" alt="Poster" />
 </div>
 
-<h1 align="center">Zenith</h1>
+<h1 align="center">Spaces</h1>
 
 <blockquote style="font-size:18px;">
-    <strong>Zenith</strong> is a powerful super app built for the modern user. The project features high-performance communication and a resilient framework for seamless online and offline connectivity. Its robust architecture supports a comprehensive suite of social and integrated services, all designed to create a unified and efficient super app ecosystem.
+    <strong>Spaces</strong> is a powerful super app built for the modern user. The project features high-performance communication and a resilient framework for seamless online and offline connectivity. Its robust architecture supports a comprehensive suite of social and integrated services, all designed to create a unified and efficient super app ecosystem.
 </blockquote>
 
 <div align="center">
-    <img src="https://img.shields.io/github/contributors/CodeDragon03/Zenith?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
-    <img src="https://img.shields.io/github/forks/CodeDragon03/Zenith?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
-    <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/CodeDragon03/Zenith?style=for-the-badge&logo=github&color=green">
-    <img src="https://img.shields.io/github/stars/CodeDragon03/Zenith?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" />
-    <img src="https://img.shields.io/github/issues/CodeDragon03/Zenith?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
+    <img src="https://img.shields.io/github/contributors/CodeDragon03/Spaces?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
+    <img src="https://img.shields.io/github/forks/CodeDragon03/Spaces?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
+    <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/CodeDragon03/Spaces?style=for-the-badge&logo=github&color=green">
+    <img src="https://img.shields.io/github/stars/CodeDragon03/Spaces?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" />
+    <img src="https://img.shields.io/github/issues/CodeDragon03/Spaces?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
 </div>
 
 ## Table of Contents
@@ -31,7 +31,7 @@
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/CodeDragon03/Zenith.git
+    git clone https://github.com/CodeDragon03/Spaces.git
     ```
 
 2.  **Install dependencies:**
@@ -60,7 +60,7 @@ We welcome contributions\! To get started, please follow these steps:
 2.  **Clone your fork**
 
     ```bash
-    git clone https://github.com/CodeDragon03/Zenith.git
+    git clone https://github.com/CodeDragon03/Spaces.git
 
     cd Zenith
     ```
@@ -104,15 +104,15 @@ We welcome contributions\! To get started, please follow these steps:
 Thanks to all the people who have contributed to this project\!
 
 <div align="start">
-    <a href="https://github.com/CodeDragon03/Zenith/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=CodeDragon03/Zenith"/>
+    <a href="https://github.com/CodeDragon03/Spaces/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=CodeDragon03/Spaces"/>
     </a>
 </div>
 
 ## Issues
 
 If you encounter any issues, please open an issue in the
-[Issues](https://github.com/CodeDragon03/Zenith/issues) section.
+[Issues](https://github.com/CodeDragon03/Spaces/issues) section.
 
 ### Issue Guidelines
 
